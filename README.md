@@ -2,16 +2,17 @@
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### Write your author name here.
+
+By Derek
 
 ### Description
 
-Create a description and fill it in here.
+ReadMe Document
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+Md
 
 ### Known Bugs
 
